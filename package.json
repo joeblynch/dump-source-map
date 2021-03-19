@@ -1,0 +1,13 @@
+{
+  "name": "dump-source-map",
+  "version": "1.0.0",
+  "description": "extracts original source code from a source map",
+  "main": "src/index.js",
+  "author": "Joe Lynch",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "mkdirp": "^1.0.4",
+    "source-map": "^0.7.3"
+  }
+}
